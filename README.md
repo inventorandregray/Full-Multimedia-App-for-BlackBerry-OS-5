@@ -4,7 +4,7 @@ A fully functional multimedia suite for **BlackBerry OS 5**, written in **Java M
 
 ---
 
-## ✨ Features Implemented
+##  Features Implemented
 
 ### 1. Image Slideshow
 - Next / Previous buttons  
@@ -28,7 +28,7 @@ A fully functional multimedia suite for **BlackBerry OS 5**, written in **Java M
 
 ---
 
-## 📱 Notes on OS 5 Compatibility
+##  Notes on OS 5 Compatibility
 - Video must be small (**<100 KB**) for smooth playback  
 - Audio files should be short (**<2–3 MB**) to prevent memory issues  
 - No background multitasking for media; all playback happens in the same thread  
